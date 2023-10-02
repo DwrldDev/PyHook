@@ -10,7 +10,9 @@
 
 Discord Webhook spammer that uses proxies
 
-
+![pyhook](https://github.com/DwrldDev/PyHook/assets/116701630/dc03b36a-9691-47a5-90f5-3335fca7d846)
+![pyprox](https://github.com/DwrldDev/PyHook/assets/116701630/1c641f73-fe08-4990-b7ab-c05175acd8a8)
+![dc](https://github.com/DwrldDev/PyHook/assets/116701630/34162019-aa98-4c83-980f-633b9a77621c)
 
 # Proxy Spammer
 
