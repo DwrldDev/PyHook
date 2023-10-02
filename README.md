@@ -39,6 +39,12 @@ git clone https://github.com/DwrldDev/PyHook/
 
 Navigate to the project directory
 
+# install 
+
+```
+pip install -r requirements.txt 
+```
+
 Run the script:
 ```
 python pyhook.py
