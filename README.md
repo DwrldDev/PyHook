@@ -18,9 +18,7 @@ Discord Webhook spammer that uses proxies
 
 The Proxy Spammer is a Python script that allows you to send messages to a Discord webhook through a list of HTTP proxies. You can use this tool for testing and educational purposes. The script provides a menu-driven interface for easy use.
 
-![pyhook](https://github.com/DwrldDev/PyHook/assets/116701630/4cb9c8ba-32d0-4cfb-855b-113ea6320c54)
-![pyprox](https://github.com/DwrldDev/PyHook/assets/116701630/626fd0ae-7c07-4dc3-84e9-479ec0019f1a)
-![dc](https://github.com/DwrldDev/PyHook/assets/116701630/5aa0c195-3eae-407a-bc3e-daaa446776b3)
+
 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
